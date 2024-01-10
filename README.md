@@ -107,7 +107,7 @@ OK, building the project should be pretty easy at this point--the templates are 
 
 If it doesn't, you'll need to diagnose this before you can complete the homework--and there's not much I can tell you ahead of time to help you diagnose this.
 
-> Sadly, one of the constants in software development is the need to debug and diagnose installation problems on your machine yourself--very rarely can anybody else do it for you. I wish it were otherwise--I hate having to do it myself--but it's a necessary part of 
+> Sadly, one of the constants in software development is the need to debug and diagnose installation problems on your machine yourself--very rarely can anybody else do it for you. I wish it were otherwise--I hate having to do it myself--but it's a necessary part of
 
 If it's running, you can leave it running, or click the big red square "stop" button in the same toolbar area as where you found the green triangle "play" button. Not surprisingly, this will stop your app (but keep the emulator running).
 
@@ -142,6 +142,12 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * the app name is "Hello": 1 pt
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
+
+    **Screenshot of my screen with "Show layout bounds" option**
+    ![screen with option turned on](screenshots/option_on.png)
+
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+
+    **One developer option I think I will use but will get mad pretty quick because of it is the "Show surface updates" option. With this option turned on, the screen or part of the screen will rapidly flashes when a main action is done. I can see how this is useful when debugging because it shows me what changes in response to an event, but the flashing will drive me crazy soon (i can guarantee this). So, maybe with some easy and simple app, I'll use this option, but with anything more complicated than an app with 1 button, I probably won't use this option.**
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
